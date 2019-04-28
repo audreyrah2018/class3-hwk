@@ -18,7 +18,6 @@ for line in file.readlines():
     corrected_line = []
     print(line_values)
     for value in line_values:
-        pass
         # for homework:
         # identify what type of data each value is, and cast it
         # to the appropriate type, then print the new, properly-typed
